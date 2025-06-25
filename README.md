@@ -1,3 +1,1 @@
-task-1
-
-environment setup 
+echo "# My PHP Project" >
